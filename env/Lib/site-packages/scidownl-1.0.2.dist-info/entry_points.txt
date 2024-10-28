@@ -1,0 +1,2 @@
+[console_scripts]
+scidownl = scidownl.api.cli:cli
